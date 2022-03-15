@@ -1,4 +1,4 @@
-FROM fooz79/swoole:7.4-4.6.6
+FROM fooz79/swoole:8.0-4.8.7
 
 RUN mkdir -p /data/nginx/wwwroot/tfgame
 
